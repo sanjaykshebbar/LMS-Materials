@@ -12,6 +12,10 @@ Welcome to the knowledge base.
 
 - [Windows 11 Wi-Fi Troubleshooting Guide](Windows11-WiFi-Troubleshooting.md)
 
+### InfoSec, Risk & Compliance Analyst
+
+- [init](InfoSec, Risk & Compliance Analyst/init.md)
+
 ### Windows
 
 - [Windows11 Updates Guide](Windows/Windows11-Updates-Guide.md)
