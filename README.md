@@ -13,6 +13,42 @@ Welcome to the knowledge base.
 - [Foundations of IT Support](Courses/foundations-of-it-support.md)
 - [Kubernetes Administrators Certification](Courses/kubernetes-administrators-certification.md)
 
+### Devops/docker-mastery-tutorial/docker-mastery-tutorial
+
+- [resources](Devops/docker-mastery-tutorial/docker-mastery-tutorial/resources.md)
+
+### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations
+
+- [lesson 1 1 what is docker](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-1-what-is-docker.md)
+- [lesson 1 2 containers vs virtual machines](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-2-containers-vs-virtual-machines.md)
+- [lesson 1 3 installing docker](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-3-installing-docker.md)
+- [lesson 1 4 your first container](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-4-your-first-container.md)
+- [lesson 1 5 docker cli cheat sheet](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-5-docker-cli-cheat-sheet.md)
+
+### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles
+
+- [lesson 2 1 images and layers](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-1-images-and-layers.md)
+- [lesson 2 2 writing your first dockerfile](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-2-writing-your-first-dockerfile.md)
+- [lesson 2 3 building tagging running](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-3-building-tagging-running.md)
+- [lesson 2 4 docker hub and registries](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-4-docker-hub-and-registries.md)
+- [lesson 2 5 image optimization multi stage builds](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-5-image-optimization-multi-stage-builds.md)
+
+### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container
+
+- [lesson 3 1 volumes persistent data](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-1-volumes-persistent-data.md)
+- [lesson 3 2 bind mounts live code sync](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-2-bind-mounts-live-code-sync.md)
+- [lesson 3 3 docker networking](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-3-docker-networking.md)
+- [lesson 3 4 environment variables and config](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-4-environment-variables-and-config.md)
+- [lesson 3 5 docker compose](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-5-docker-compose.md)
+
+### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production
+
+- [lesson 4 1 dockerizing full stack app](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-1-dockerizing-full-stack-app.md)
+- [lesson 4 2 debugging and troubleshooting](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-2-debugging-and-troubleshooting.md)
+- [lesson 4 3 docker security best practices](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-3-docker-security-best-practices.md)
+- [lesson 4 4 docker in ci cd](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-4-docker-in-ci-cd.md)
+- [lesson 4 5 orchestration and next steps](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-5-orchestration-and-next-steps.md)
+
 ### General
 
 - [Windows 11 Wi-Fi Troubleshooting Guide](Windows11-WiFi-Troubleshooting.md)
