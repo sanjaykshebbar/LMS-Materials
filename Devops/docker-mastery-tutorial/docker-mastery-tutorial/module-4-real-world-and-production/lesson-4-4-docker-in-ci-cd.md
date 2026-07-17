@@ -1,3 +1,8 @@
+---
+title: "📕 Lesson 4.4 — Docker in CI/CD: Automate Everything"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 4️⃣ Module 4 — Real-World Docker & Production
 >
 > [⬅️ Prev: Lesson 4.3](./lesson-4-3-docker-security-best-practices.md) · [🏠 Course Home](../README.md) · [Next: Lesson 4.5 ➡️](./lesson-4-5-orchestration-and-next-steps.md)
