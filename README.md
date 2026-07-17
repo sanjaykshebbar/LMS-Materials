@@ -41,6 +41,7 @@ Welcome to the knowledge base.
 - [Package Dependencies and Conflicts](Courses/linux-fundamentals/27-package-dependencies-and-conflicts.md)
 - [Package Installation and Removal](Courses/linux-fundamentals/26-package-installation-and-removal.md)
 - [Package Management Introduction](Courses/linux-fundamentals/25-package-management-introduction.md)
+- [Package Management Tools](Courses/linux-fundamentals/28-package-management-tools.md)
 - [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
 - [User Account Best Practices](Courses/linux-fundamentals/24-user-account-best-practices.md)
 - [User Account Management](Courses/linux-fundamentals/19-user-account-management.md)
