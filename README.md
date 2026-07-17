@@ -21,6 +21,7 @@ Welcome to the knowledge base.
 ### Courses/linux-fundamentals
 
 - [Basic Linux Commands](Courses/linux-fundamentals/13-basic-linux-commands.md)
+- [Command-Line Editing and Navigation](Courses/linux-fundamentals/15-command-line-editing-and-navigation.md)
 - [File Permissions and Ownership](Courses/linux-fundamentals/09-file-permissions-and-ownership.md)
 - [File System Best Practices](Courses/linux-fundamentals/12-file-system-best-practices.md)
 - [File System Commands](Courses/linux-fundamentals/10-file-system-commands.md)
