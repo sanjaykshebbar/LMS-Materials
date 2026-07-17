@@ -25,6 +25,7 @@ Welcome to the knowledge base.
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
 - [Linux File System Hierarchy](Courses/linux-fundamentals/07-linux-file-system-hierarchy.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
+- [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
 - [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
 - [What is Linux?](Courses/linux-fundamentals/01-what-is-linux.md)
 
