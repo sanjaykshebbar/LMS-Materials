@@ -53,6 +53,7 @@ Welcome to the knowledge base.
 - [Package Management Introduction](Courses/linux-fundamentals/25-package-management-introduction.md)
 - [Package Management Tools](Courses/linux-fundamentals/28-package-management-tools.md)
 - [Package Security and Updates](Courses/linux-fundamentals/29-package-security-and-updates.md)
+- [Security Best Practices](Courses/linux-fundamentals/41-security-best-practices.md)
 - [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
 - [User Account Best Practices](Courses/linux-fundamentals/24-user-account-best-practices.md)
 - [User Account Management](Courses/linux-fundamentals/19-user-account-management.md)
