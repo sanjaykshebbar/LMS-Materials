@@ -1,3 +1,8 @@
+---
+title: "📙 Lesson 3.1 — Volumes: Making Data Survive"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 3️⃣ Module 3 — Data, Networking & Multi-Container Apps
 >
 > [⬅️ Prev: Lesson 2.5](../module-2-images-and-dockerfiles/lesson-2-5-image-optimization-multi-stage-builds.md) · [🏠 Course Home](../README.md) · [Next: Lesson 3.2 ➡️](./lesson-3-2-bind-mounts-live-code-sync.md)
