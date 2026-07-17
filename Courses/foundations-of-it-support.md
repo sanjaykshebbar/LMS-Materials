@@ -1,11 +1,8 @@
 ---
-type: course
 title: Foundations of IT Support
 category: Technical Support Fundamentals
-difficulty: Beginner
-estimatedTime: 17 mins
+tags: [Obsidian-Sync]
 ---
-
 # Foundations of IT Support
 
 Foundations of IT Support is a beginner-friendly course that teaches the core skills needed to start a career in helpdesk or desktop support. It covers computer hardware, operating systems, basic networking, troubleshooting, software support, and customer service so learners can confidently handle everyday technical issues.
