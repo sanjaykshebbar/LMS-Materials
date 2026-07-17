@@ -1,3 +1,8 @@
+---
+title: "📘 Lesson 2.3 — Building, Tagging & Running Your Image"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 2️⃣ Module 2 — Images & Dockerfiles
 >
 > [⬅️ Prev: Lesson 2.2](./lesson-2-2-writing-your-first-dockerfile.md) · [🏠 Course Home](../README.md) · [Next: Lesson 2.4 ➡️](./lesson-2-4-docker-hub-and-registries.md)
