@@ -21,6 +21,7 @@ Welcome to the knowledge base.
 ### Courses/linux-fundamentals
 
 - [Advanced File System Topics](Courses/linux-fundamentals/43-advanced-file-system-topics.md)
+- [Advanced Linux Tools and Utilities](Courses/linux-fundamentals/48-advanced-linux-tools-and-utilities.md)
 - [Advanced Networking Topics](Courses/linux-fundamentals/44-advanced-networking-topics.md)
 - [Advanced Security Topics](Courses/linux-fundamentals/45-advanced-security-topics.md)
 - [Advanced System Administration](Courses/linux-fundamentals/46-advanced-system-administration.md)
