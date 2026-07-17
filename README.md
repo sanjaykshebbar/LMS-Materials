@@ -15,6 +15,7 @@ Welcome to the knowledge base.
 
 ### Courses/ai-for-beginners
 
+- [Machine Learning Basics](Courses/ai-for-beginners/02-machine-learning-basics.md)
 - [What is AI?](Courses/ai-for-beginners/01-what-is-ai.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
