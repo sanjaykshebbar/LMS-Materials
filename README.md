@@ -24,6 +24,7 @@ Welcome to the knowledge base.
 - [Advanced Networking Topics](Courses/linux-fundamentals/44-advanced-networking-topics.md)
 - [Advanced Security Topics](Courses/linux-fundamentals/45-advanced-security-topics.md)
 - [Advanced System Administration](Courses/linux-fundamentals/46-advanced-system-administration.md)
+- [Advanced Troubleshooting](Courses/linux-fundamentals/47-advanced-troubleshooting.md)
 - [Basic Linux Commands](Courses/linux-fundamentals/13-basic-linux-commands.md)
 - [Command-Line Editing and Navigation](Courses/linux-fundamentals/15-command-line-editing-and-navigation.md)
 - [Command-Line History and Completion](Courses/linux-fundamentals/16-command-line-history-and-completion.md)
