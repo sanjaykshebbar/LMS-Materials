@@ -1,3 +1,8 @@
+---
+title: 📗 Lesson 1.1 — What is Docker & Why Should You Care?
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 1️⃣ Module 1 — Docker Foundations
 >
 > [🏠 Course Home](../README.md) · [Next: Lesson 1.2 ➡️](./lesson-1-2-containers-vs-virtual-machines.md)
