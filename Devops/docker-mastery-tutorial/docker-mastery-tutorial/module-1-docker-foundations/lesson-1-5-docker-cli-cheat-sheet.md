@@ -1,3 +1,8 @@
+---
+title: 📗 Lesson 1.5 — The Essential Docker CLI Cheat Sheet
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 1️⃣ Module 1 — Docker Foundations
 >
 > [⬅️ Prev: Lesson 1.4](./lesson-1-4-your-first-container.md) · [🏠 Course Home](../README.md) · [Next: Lesson 2.1 ➡️](../module-2-images-and-dockerfiles/lesson-2-1-images-and-layers.md)
