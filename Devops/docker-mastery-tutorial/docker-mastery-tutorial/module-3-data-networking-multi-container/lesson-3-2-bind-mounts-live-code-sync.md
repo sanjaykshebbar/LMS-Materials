@@ -1,3 +1,8 @@
+---
+title: "📙 Lesson 3.2 — Bind Mounts: Live Code Sync for Development"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 3️⃣ Module 3 — Data, Networking & Multi-Container Apps
 >
 > [⬅️ Prev: Lesson 3.1](./lesson-3-1-volumes-persistent-data.md) · [🏠 Course Home](../README.md) · [Next: Lesson 3.3 ➡️](./lesson-3-3-docker-networking.md)
