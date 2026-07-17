@@ -1,3 +1,8 @@
+---
+title: "📕 Lesson 4.5 — Beyond Docker: Orchestration & Your Next Steps"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 4️⃣ Module 4 — Real-World Docker & Production
 >
 > [⬅️ Prev: Lesson 4.4](./lesson-4-4-docker-in-ci-cd.md) · [🏠 Course Home](../README.md) · [🎓 Resource Library ➡️](../resources.md)
