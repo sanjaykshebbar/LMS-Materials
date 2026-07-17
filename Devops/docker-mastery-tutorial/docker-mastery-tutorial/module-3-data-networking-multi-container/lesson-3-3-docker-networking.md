@@ -1,3 +1,8 @@
+---
+title: "📙 Lesson 3.3 — Docker Networking: Containers Talking to Each Other"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 3️⃣ Module 3 — Data, Networking & Multi-Container Apps
 >
 > [⬅️ Prev: Lesson 3.2](./lesson-3-2-bind-mounts-live-code-sync.md) · [🏠 Course Home](../README.md) · [Next: Lesson 3.4 ➡️](./lesson-3-4-environment-variables-and-config.md)
