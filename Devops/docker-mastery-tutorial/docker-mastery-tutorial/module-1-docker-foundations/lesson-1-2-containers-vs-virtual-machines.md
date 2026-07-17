@@ -1,3 +1,8 @@
+---
+title: 📗 Lesson 1.2 — Containers vs Virtual Machines
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 1️⃣ Module 1 — Docker Foundations
 >
 > [⬅️ Prev: Lesson 1.1](./lesson-1-1-what-is-docker.md) · [🏠 Course Home](../README.md) · [Next: Lesson 1.3 ➡️](./lesson-1-3-installing-docker.md)
