@@ -71,39 +71,39 @@ Welcome to the knowledge base.
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
 
-- [resources](Devops/docker-mastery-tutorial/docker-mastery-tutorial/resources.md)
+- [🎓 Master Resource Library](Devops/docker-mastery-tutorial/docker-mastery-tutorial/resources.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations
 
-- [lesson 1 1 what is docker](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-1-what-is-docker.md)
-- [lesson 1 2 containers vs virtual machines](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-2-containers-vs-virtual-machines.md)
-- [lesson 1 3 installing docker](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-3-installing-docker.md)
-- [lesson 1 4 your first container](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-4-your-first-container.md)
-- [lesson 1 5 docker cli cheat sheet](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-5-docker-cli-cheat-sheet.md)
+- [📗 Lesson 1.1 — What is Docker & Why Should You Care?](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-1-what-is-docker.md)
+- [📗 Lesson 1.2 — Containers vs Virtual Machines](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-2-containers-vs-virtual-machines.md)
+- [📗 Lesson 1.3 — Installing Docker on Any OS](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-3-installing-docker.md)
+- [📗 Lesson 1.4 — Your First Container](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-4-your-first-container.md)
+- [📗 Lesson 1.5 — The Essential Docker CLI Cheat Sheet](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-1-docker-foundations/lesson-1-5-docker-cli-cheat-sheet.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles
 
-- [lesson 2 1 images and layers](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-1-images-and-layers.md)
-- [lesson 2 2 writing your first dockerfile](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-2-writing-your-first-dockerfile.md)
-- [lesson 2 3 building tagging running](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-3-building-tagging-running.md)
-- [lesson 2 4 docker hub and registries](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-4-docker-hub-and-registries.md)
-- [lesson 2 5 image optimization multi stage builds](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-5-image-optimization-multi-stage-builds.md)
+- [📘 Lesson 2.1 — Understanding Images & Layers](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-1-images-and-layers.md)
+- [📘 Lesson 2.2 — Writing Your First Dockerfile](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-2-writing-your-first-dockerfile.md)
+- [📘 Lesson 2.3 — Building, Tagging & Running Your Image](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-3-building-tagging-running.md)
+- [📘 Lesson 2.4 — Docker Hub & Registries: Share Your Images](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-4-docker-hub-and-registries.md)
+- [📘 Lesson 2.5 — Image Optimization & Multi-Stage Builds](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-2-images-and-dockerfiles/lesson-2-5-image-optimization-multi-stage-builds.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container
 
-- [lesson 3 1 volumes persistent data](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-1-volumes-persistent-data.md)
-- [lesson 3 2 bind mounts live code sync](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-2-bind-mounts-live-code-sync.md)
-- [lesson 3 3 docker networking](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-3-docker-networking.md)
-- [lesson 3 4 environment variables and config](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-4-environment-variables-and-config.md)
-- [lesson 3 5 docker compose](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-5-docker-compose.md)
+- [📙 Lesson 3.1 — Volumes: Making Data Survive](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-1-volumes-persistent-data.md)
+- [📙 Lesson 3.2 — Bind Mounts: Live Code Sync for Development](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-2-bind-mounts-live-code-sync.md)
+- [📙 Lesson 3.3 — Docker Networking: Containers Talking to Each Other](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-3-docker-networking.md)
+- [📙 Lesson 3.4 — Environment Variables & Configuration](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-4-environment-variables-and-config.md)
+- [📙 Lesson 3.5 — Docker Compose: One File to Rule Them All](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-3-data-networking-multi-container/lesson-3-5-docker-compose.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production
 
-- [lesson 4 1 dockerizing full stack app](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-1-dockerizing-full-stack-app.md)
-- [lesson 4 2 debugging and troubleshooting](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-2-debugging-and-troubleshooting.md)
-- [lesson 4 3 docker security best practices](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-3-docker-security-best-practices.md)
-- [lesson 4 4 docker in ci cd](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-4-docker-in-ci-cd.md)
-- [lesson 4 5 orchestration and next steps](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-5-orchestration-and-next-steps.md)
+- [📕 Lesson 4.1 — Dockerizing a Real Full-Stack Application](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-1-dockerizing-full-stack-app.md)
+- [📕 Lesson 4.2 — Debugging & Troubleshooting Like a Pro](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-2-debugging-and-troubleshooting.md)
+- [📕 Lesson 4.3 — Docker Security Best Practices](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-3-docker-security-best-practices.md)
+- [📕 Lesson 4.4 — Docker in CI/CD: Automate Everything](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-4-docker-in-ci-cd.md)
+- [📕 Lesson 4.5 — Beyond Docker: Orchestration & Your Next Steps](Devops/docker-mastery-tutorial/docker-mastery-tutorial/module-4-real-world-and-production/lesson-4-5-orchestration-and-next-steps.md)
 
 ### General
 
