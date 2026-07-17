@@ -28,6 +28,7 @@ Welcome to the knowledge base.
 - [File System Commands](Courses/linux-fundamentals/10-file-system-commands.md)
 - [File System Security](Courses/linux-fundamentals/11-file-system-security.md)
 - [File and Directory Permissions](Courses/linux-fundamentals/21-file-and-directory-permissions.md)
+- [File and Directory Security](Courses/linux-fundamentals/39-file-and-directory-security.md)
 - [Group Management](Courses/linux-fundamentals/23-group-management.md)
 - [Linux Basics: File System and Navigation](Courses/linux-fundamentals/06-linux-basics-file-system-and-navigation.md)
 - [Linux Command-Line Interface](Courses/linux-fundamentals/14-linux-command-line-interface.md)
