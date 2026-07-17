@@ -1,3 +1,8 @@
+---
+title: 🎓 Master Resource Library
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero**
 >
 > [🏠 Course Home](./README.md)
