@@ -13,6 +13,10 @@ Welcome to the knowledge base.
 - [Foundations of IT Support](Courses/foundations-of-it-support.md)
 - [Kubernetes Administrators Certification](Courses/kubernetes-administrators-certification.md)
 
+### Courses/ai-for-beginners
+
+- [What is AI?](Courses/ai-for-beginners/01-what-is-ai.md)
+
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
 
 - [resources](Devops/docker-mastery-tutorial/docker-mastery-tutorial/resources.md)
