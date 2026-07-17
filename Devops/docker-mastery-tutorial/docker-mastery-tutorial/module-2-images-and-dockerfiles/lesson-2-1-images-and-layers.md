@@ -1,3 +1,8 @@
+---
+title: 📘 Lesson 2.1 — Understanding Images & Layers
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 2️⃣ Module 2 — Images & Dockerfiles
 >
 > [⬅️ Prev: Lesson 1.5](../module-1-docker-foundations/lesson-1-5-docker-cli-cheat-sheet.md) · [🏠 Course Home](../README.md) · [Next: Lesson 2.2 ➡️](./lesson-2-2-writing-your-first-dockerfile.md)
