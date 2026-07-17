@@ -39,6 +39,7 @@ Welcome to the knowledge base.
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
 - [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
+- [User Account Best Practices](Courses/linux-fundamentals/24-user-account-best-practices.md)
 - [User Account Management](Courses/linux-fundamentals/19-user-account-management.md)
 - [User Account Security](Courses/linux-fundamentals/22-user-account-security.md)
 - [User Permissions and Groups](Courses/linux-fundamentals/20-user-permissions-and-groups.md)
