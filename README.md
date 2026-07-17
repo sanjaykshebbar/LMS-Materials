@@ -20,6 +20,7 @@ Welcome to the knowledge base.
 
 ### Courses/linux-fundamentals
 
+- [Linux Community and Resources](Courses/linux-fundamentals/04-linux-community-and-resources.md)
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [What is Linux?](Courses/linux-fundamentals/01-what-is-linux.md)
