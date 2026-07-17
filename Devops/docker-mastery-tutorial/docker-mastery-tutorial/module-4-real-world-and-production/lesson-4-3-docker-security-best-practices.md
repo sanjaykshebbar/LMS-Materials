@@ -1,3 +1,8 @@
+---
+title: 📕 Lesson 4.3 — Docker Security Best Practices
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 4️⃣ Module 4 — Real-World Docker & Production
 >
 > [⬅️ Prev: Lesson 4.2](./lesson-4-2-debugging-and-troubleshooting.md) · [🏠 Course Home](../README.md) · [Next: Lesson 4.4 ➡️](./lesson-4-4-docker-in-ci-cd.md)
