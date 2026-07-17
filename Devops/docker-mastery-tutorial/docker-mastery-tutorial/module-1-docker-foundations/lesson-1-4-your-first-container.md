@@ -1,3 +1,8 @@
+---
+title: 📗 Lesson 1.4 — Your First Container
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 1️⃣ Module 1 — Docker Foundations
 >
 > [⬅️ Prev: Lesson 1.3](./lesson-1-3-installing-docker.md) · [🏠 Course Home](../README.md) · [Next: Lesson 1.5 ➡️](./lesson-1-5-docker-cli-cheat-sheet.md)
