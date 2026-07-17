@@ -1,3 +1,8 @@
+---
+title: "📘 Lesson 2.4 — Docker Hub & Registries: Share Your Images"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 2️⃣ Module 2 — Images & Dockerfiles
 >
 > [⬅️ Prev: Lesson 2.3](./lesson-2-3-building-tagging-running.md) · [🏠 Course Home](../README.md) · [Next: Lesson 2.5 ➡️](./lesson-2-5-image-optimization-multi-stage-builds.md)
