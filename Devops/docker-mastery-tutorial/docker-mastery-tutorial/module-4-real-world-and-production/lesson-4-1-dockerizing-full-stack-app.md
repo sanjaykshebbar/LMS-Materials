@@ -1,3 +1,8 @@
+---
+title: 📕 Lesson 4.1 — Dockerizing a Real Full-Stack Application
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 4️⃣ Module 4 — Real-World Docker & Production
 >
 > [⬅️ Prev: Lesson 3.5](../module-3-data-networking-multi-container/lesson-3-5-docker-compose.md) · [🏠 Course Home](../README.md) · [Next: Lesson 4.2 ➡️](./lesson-4-2-debugging-and-troubleshooting.md)
