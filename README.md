@@ -38,6 +38,7 @@ Welcome to the knowledge base.
 - [Linux File System Hierarchy](Courses/linux-fundamentals/07-linux-file-system-hierarchy.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
+- [Package Dependencies and Conflicts](Courses/linux-fundamentals/27-package-dependencies-and-conflicts.md)
 - [Package Installation and Removal](Courses/linux-fundamentals/26-package-installation-and-removal.md)
 - [Package Management Introduction](Courses/linux-fundamentals/25-package-management-introduction.md)
 - [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
