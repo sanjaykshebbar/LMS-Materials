@@ -37,6 +37,7 @@ Welcome to the knowledge base.
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
 - [Linux File System Hierarchy](Courses/linux-fundamentals/07-linux-file-system-hierarchy.md)
 - [Linux Networking Basics](Courses/linux-fundamentals/31-linux-networking-basics.md)
+- [Linux Security Basics](Courses/linux-fundamentals/37-linux-security-basics.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
 - [Network Best Practices](Courses/linux-fundamentals/36-network-best-practices.md)
