@@ -1,3 +1,8 @@
+---
+title: 📕 Lesson 4.2 — Debugging & Troubleshooting Like a Pro
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 4️⃣ Module 4 — Real-World Docker & Production
 >
 > [⬅️ Prev: Lesson 4.1](./lesson-4-1-dockerizing-full-stack-app.md) · [🏠 Course Home](../README.md) · [Next: Lesson 4.3 ➡️](./lesson-4-3-docker-security-best-practices.md)
