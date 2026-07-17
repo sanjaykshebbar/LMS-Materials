@@ -20,6 +20,7 @@ Welcome to the knowledge base.
 
 ### Courses/linux-fundamentals
 
+- [Linux Basics: File System and Navigation](Courses/linux-fundamentals/06-linux-basics-file-system-and-navigation.md)
 - [Linux Community and Resources](Courses/linux-fundamentals/04-linux-community-and-resources.md)
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
