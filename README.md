@@ -26,6 +26,7 @@ Welcome to the knowledge base.
 - [File System Commands](Courses/linux-fundamentals/10-file-system-commands.md)
 - [File System Security](Courses/linux-fundamentals/11-file-system-security.md)
 - [Linux Basics: File System and Navigation](Courses/linux-fundamentals/06-linux-basics-file-system-and-navigation.md)
+- [Linux Command-Line Interface](Courses/linux-fundamentals/14-linux-command-line-interface.md)
 - [Linux Community and Resources](Courses/linux-fundamentals/04-linux-community-and-resources.md)
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
 - [Linux File System Hierarchy](Courses/linux-fundamentals/07-linux-file-system-hierarchy.md)
