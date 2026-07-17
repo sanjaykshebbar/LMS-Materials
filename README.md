@@ -20,6 +20,7 @@ Welcome to the knowledge base.
 
 ### Courses/linux-fundamentals
 
+- [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [What is Linux?](Courses/linux-fundamentals/01-what-is-linux.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
