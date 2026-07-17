@@ -1,3 +1,8 @@
+---
+title: 📘 Lesson 2.5 — Image Optimization & Multi-Stage Builds
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 2️⃣ Module 2 — Images & Dockerfiles
 >
 > [⬅️ Prev: Lesson 2.4](./lesson-2-4-docker-hub-and-registries.md) · [🏠 Course Home](../README.md) · [Next: Lesson 3.1 ➡️](../module-3-data-networking-multi-container/lesson-3-1-volumes-persistent-data.md)
