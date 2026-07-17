@@ -56,6 +56,7 @@ Welcome to the knowledge base.
 - [User Account Management](Courses/linux-fundamentals/19-user-account-management.md)
 - [User Account Security](Courses/linux-fundamentals/22-user-account-security.md)
 - [User Permissions and Groups](Courses/linux-fundamentals/20-user-permissions-and-groups.md)
+- [User and Group Security](Courses/linux-fundamentals/38-user-and-group-security.md)
 - [What is Linux?](Courses/linux-fundamentals/01-what-is-linux.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
