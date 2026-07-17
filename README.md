@@ -37,6 +37,7 @@ Welcome to the knowledge base.
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
 - [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
+- [User Account Management](Courses/linux-fundamentals/19-user-account-management.md)
 - [What is Linux?](Courses/linux-fundamentals/01-what-is-linux.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
