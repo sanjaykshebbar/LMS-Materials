@@ -1,3 +1,8 @@
+---
+title: "📙 Lesson 3.5 — Docker Compose: One File to Rule Them All"
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 3️⃣ Module 3 — Data, Networking & Multi-Container Apps
 >
 > [⬅️ Prev: Lesson 3.4](./lesson-3-4-environment-variables-and-config.md) · [🏠 Course Home](../README.md) · [Next: Lesson 4.1 ➡️](../module-4-real-world-and-production/lesson-4-1-dockerizing-full-stack-app.md)
