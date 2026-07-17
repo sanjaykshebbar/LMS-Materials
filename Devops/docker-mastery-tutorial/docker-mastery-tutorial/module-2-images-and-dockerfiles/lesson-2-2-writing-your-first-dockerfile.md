@@ -1,3 +1,8 @@
+---
+title: 📘 Lesson 2.2 — Writing Your First Dockerfile
+category: Devops
+tags: [Obsidian-Sync]
+---
 > 🐳 **Docker Mastery — From Zero to Hero** · 2️⃣ Module 2 — Images & Dockerfiles
 >
 > [⬅️ Prev: Lesson 2.1](./lesson-2-1-images-and-layers.md) · [🏠 Course Home](../README.md) · [Next: Lesson 2.3 ➡️](./lesson-2-3-building-tagging-running.md)
