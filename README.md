@@ -40,6 +40,7 @@ Welcome to the knowledge base.
 - [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
 - [Package Dependencies and Conflicts](Courses/linux-fundamentals/27-package-dependencies-and-conflicts.md)
 - [Package Installation and Removal](Courses/linux-fundamentals/26-package-installation-and-removal.md)
+- [Package Management Best Practices](Courses/linux-fundamentals/30-package-management-best-practices.md)
 - [Package Management Introduction](Courses/linux-fundamentals/25-package-management-introduction.md)
 - [Package Management Tools](Courses/linux-fundamentals/28-package-management-tools.md)
 - [Package Security and Updates](Courses/linux-fundamentals/29-package-security-and-updates.md)
