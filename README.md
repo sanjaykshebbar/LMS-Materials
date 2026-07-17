@@ -23,6 +23,7 @@ Welcome to the knowledge base.
 - [Linux Community and Resources](Courses/linux-fundamentals/04-linux-community-and-resources.md)
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
+- [Setting up a Linux Environment](Courses/linux-fundamentals/05-setting-up-a-linux-environment.md)
 - [What is Linux?](Courses/linux-fundamentals/01-what-is-linux.md)
 
 ### Devops/docker-mastery-tutorial/docker-mastery-tutorial
