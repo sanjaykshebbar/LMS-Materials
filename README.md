@@ -42,6 +42,7 @@ Welcome to the knowledge base.
 - [Network Configuration](Courses/linux-fundamentals/32-network-configuration.md)
 - [Network Interfaces and Devices](Courses/linux-fundamentals/33-network-interfaces-and-devices.md)
 - [Network Security and Firewalls](Courses/linux-fundamentals/34-network-security-and-firewalls.md)
+- [Network Troubleshooting](Courses/linux-fundamentals/35-network-troubleshooting.md)
 - [Package Dependencies and Conflicts](Courses/linux-fundamentals/27-package-dependencies-and-conflicts.md)
 - [Package Installation and Removal](Courses/linux-fundamentals/26-package-installation-and-removal.md)
 - [Package Management Best Practices](Courses/linux-fundamentals/30-package-management-best-practices.md)
