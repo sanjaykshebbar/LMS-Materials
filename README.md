@@ -39,6 +39,7 @@ Welcome to the knowledge base.
 - [Linux Networking Basics](Courses/linux-fundamentals/31-linux-networking-basics.md)
 - [Linux vs. Windows vs. macOS](Courses/linux-fundamentals/02-linux-vs-windows-vs-macos.md)
 - [Navigation and File Management](Courses/linux-fundamentals/08-navigation-and-file-management.md)
+- [Network Best Practices](Courses/linux-fundamentals/36-network-best-practices.md)
 - [Network Configuration](Courses/linux-fundamentals/32-network-configuration.md)
 - [Network Interfaces and Devices](Courses/linux-fundamentals/33-network-interfaces-and-devices.md)
 - [Network Security and Firewalls](Courses/linux-fundamentals/34-network-security-and-firewalls.md)
