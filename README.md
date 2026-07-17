@@ -21,6 +21,7 @@ Welcome to the knowledge base.
 ### Courses/linux-fundamentals
 
 - [File Permissions and Ownership](Courses/linux-fundamentals/09-file-permissions-and-ownership.md)
+- [File System Commands](Courses/linux-fundamentals/10-file-system-commands.md)
 - [Linux Basics: File System and Navigation](Courses/linux-fundamentals/06-linux-basics-file-system-and-navigation.md)
 - [Linux Community and Resources](Courses/linux-fundamentals/04-linux-community-and-resources.md)
 - [Linux Distributions and Flavors](Courses/linux-fundamentals/03-linux-distributions-and-flavors.md)
