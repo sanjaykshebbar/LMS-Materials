@@ -20,6 +20,7 @@ Welcome to the knowledge base.
 
 ### Courses/it-asset-management-fundamentals
 
+- [Benefits of IT Asset Management](Courses/it-asset-management-fundamentals/02-benefits-of-it-asset-management.md)
 - [What is IT Asset Management?](Courses/it-asset-management-fundamentals/01-what-is-it-asset-management.md)
 
 ### Courses/linux-fundamentals
