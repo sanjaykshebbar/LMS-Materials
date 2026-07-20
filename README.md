@@ -30,6 +30,7 @@ Welcome to the knowledge base.
 - [Creating an IT Asset Inventory](Courses/it-asset-management-fundamentals/11-creating-an-it-asset-inventory.md)
 - [IT Asset Acquisition](Courses/it-asset-management-fundamentals/16-it-asset-acquisition.md)
 - [IT Asset Classification](Courses/it-asset-management-fundamentals/07-it-asset-classification.md)
+- [IT Asset Deployment](Courses/it-asset-management-fundamentals/17-it-asset-deployment.md)
 - [IT Asset Management Best Practices](Courses/it-asset-management-fundamentals/03-it-asset-management-best-practices.md)
 - [IT Asset Management Challenges](Courses/it-asset-management-fundamentals/04-it-asset-management-challenges.md)
 - [IT Asset Management Frameworks](Courses/it-asset-management-fundamentals/05-it-asset-management-frameworks.md)
