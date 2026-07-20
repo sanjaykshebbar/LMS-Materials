@@ -21,8 +21,10 @@ Welcome to the knowledge base.
 ### Courses/it-asset-management-fundamentals
 
 - [Asset Categorization](Courses/it-asset-management-fundamentals/08-asset-categorization.md)
+- [Asset Naming Conventions](Courses/it-asset-management-fundamentals/10-asset-naming-conventions.md)
 - [Asset Tagging and Labeling](Courses/it-asset-management-fundamentals/09-asset-tagging-and-labeling.md)
 - [Benefits of IT Asset Management](Courses/it-asset-management-fundamentals/02-benefits-of-it-asset-management.md)
+- [Creating an IT Asset Inventory](Courses/it-asset-management-fundamentals/11-creating-an-it-asset-inventory.md)
 - [IT Asset Classification](Courses/it-asset-management-fundamentals/07-it-asset-classification.md)
 - [IT Asset Management Best Practices](Courses/it-asset-management-fundamentals/03-it-asset-management-best-practices.md)
 - [IT Asset Management Challenges](Courses/it-asset-management-fundamentals/04-it-asset-management-challenges.md)
