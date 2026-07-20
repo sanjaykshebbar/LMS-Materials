@@ -18,6 +18,10 @@ Welcome to the knowledge base.
 - [Machine Learning Basics](Courses/ai-for-beginners/02-machine-learning-basics.md)
 - [What is AI?](Courses/ai-for-beginners/01-what-is-ai.md)
 
+### Courses/it-asset-management-fundamentals
+
+- [What is IT Asset Management?](Courses/it-asset-management-fundamentals/01-what-is-it-asset-management.md)
+
 ### Courses/linux-fundamentals
 
 - [Advanced File System Topics](Courses/linux-fundamentals/43-advanced-file-system-topics.md)
