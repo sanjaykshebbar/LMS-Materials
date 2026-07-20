@@ -37,6 +37,7 @@ Welcome to the knowledge base.
 - [IT Asset Management Best Practices](Courses/it-asset-management-fundamentals/03-it-asset-management-best-practices.md)
 - [IT Asset Management Challenges](Courses/it-asset-management-fundamentals/04-it-asset-management-challenges.md)
 - [IT Asset Management Frameworks](Courses/it-asset-management-fundamentals/05-it-asset-management-frameworks.md)
+- [IT Asset Management Governance](Courses/it-asset-management-fundamentals/22-it-asset-management-governance.md)
 - [IT Asset Tracking Methods](Courses/it-asset-management-fundamentals/12-it-asset-tracking-methods.md)
 - [IT Asset Upgrade and Replacement](Courses/it-asset-management-fundamentals/19-it-asset-upgrade-and-replacement.md)
 - [Types of IT Assets](Courses/it-asset-management-fundamentals/06-types-of-it-assets.md)
