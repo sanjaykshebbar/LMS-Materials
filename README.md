@@ -28,6 +28,7 @@ Welcome to the knowledge base.
 - [Asset Tagging and Labeling](Courses/it-asset-management-fundamentals/09-asset-tagging-and-labeling.md)
 - [Benefits of IT Asset Management](Courses/it-asset-management-fundamentals/02-benefits-of-it-asset-management.md)
 - [Creating an IT Asset Inventory](Courses/it-asset-management-fundamentals/11-creating-an-it-asset-inventory.md)
+- [Developing an IT Asset Management Policy](Courses/it-asset-management-fundamentals/21-developing-an-it-asset-management-policy.md)
 - [IT Asset Acquisition](Courses/it-asset-management-fundamentals/16-it-asset-acquisition.md)
 - [IT Asset Classification](Courses/it-asset-management-fundamentals/07-it-asset-classification.md)
 - [IT Asset Deployment](Courses/it-asset-management-fundamentals/17-it-asset-deployment.md)
