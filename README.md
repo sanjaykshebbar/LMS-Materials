@@ -21,6 +21,7 @@ Welcome to the knowledge base.
 ### Courses/it-asset-management-fundamentals
 
 - [Asset Categorization](Courses/it-asset-management-fundamentals/08-asset-categorization.md)
+- [Asset Disposal and Retirement](Courses/it-asset-management-fundamentals/15-asset-disposal-and-retirement.md)
 - [Asset Location and Storage](Courses/it-asset-management-fundamentals/14-asset-location-and-storage.md)
 - [Asset Naming Conventions](Courses/it-asset-management-fundamentals/10-asset-naming-conventions.md)
 - [Asset Registration and Assignment](Courses/it-asset-management-fundamentals/13-asset-registration-and-assignment.md)
