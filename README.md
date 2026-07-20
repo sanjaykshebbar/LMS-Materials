@@ -21,6 +21,7 @@ Welcome to the knowledge base.
 ### Courses/it-asset-management-fundamentals
 
 - [Asset Categorization](Courses/it-asset-management-fundamentals/08-asset-categorization.md)
+- [Asset Tagging and Labeling](Courses/it-asset-management-fundamentals/09-asset-tagging-and-labeling.md)
 - [Benefits of IT Asset Management](Courses/it-asset-management-fundamentals/02-benefits-of-it-asset-management.md)
 - [IT Asset Classification](Courses/it-asset-management-fundamentals/07-it-asset-classification.md)
 - [IT Asset Management Best Practices](Courses/it-asset-management-fundamentals/03-it-asset-management-best-practices.md)
