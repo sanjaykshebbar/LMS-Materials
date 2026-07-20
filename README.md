@@ -35,6 +35,7 @@ Welcome to the knowledge base.
 - [IT Asset Disposal and Retirement](Courses/it-asset-management-fundamentals/20-it-asset-disposal-and-retirement.md)
 - [IT Asset Maintenance and Support](Courses/it-asset-management-fundamentals/18-it-asset-maintenance-and-support.md)
 - [IT Asset Management Best Practices](Courses/it-asset-management-fundamentals/03-it-asset-management-best-practices.md)
+- [IT Asset Management Best Practices](Courses/it-asset-management-fundamentals/25-it-asset-management-best-practices.md)
 - [IT Asset Management Challenges](Courses/it-asset-management-fundamentals/04-it-asset-management-challenges.md)
 - [IT Asset Management Frameworks](Courses/it-asset-management-fundamentals/05-it-asset-management-frameworks.md)
 - [IT Asset Management Governance](Courses/it-asset-management-fundamentals/22-it-asset-management-governance.md)
