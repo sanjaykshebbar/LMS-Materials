@@ -23,6 +23,7 @@ Welcome to the knowledge base.
 - [Creating Containers](Courses/docker-fundamentals/04-creating-containers.md)
 - [Docker Basics](Courses/docker-fundamentals/03-docker-basics.md)
 - [Installing Docker](Courses/docker-fundamentals/02-installing-docker.md)
+- [Managing Containers](Courses/docker-fundamentals/05-managing-containers.md)
 - [What is Docker?](Courses/docker-fundamentals/01-what-is-docker.md)
 
 ### Courses/it-asset-management-fundamentals
