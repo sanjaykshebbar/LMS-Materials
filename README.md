@@ -25,6 +25,7 @@ Welcome to the knowledge base.
 - [Creating Containers](Courses/docker-fundamentals/04-creating-containers.md)
 - [Docker Basics](Courses/docker-fundamentals/03-docker-basics.md)
 - [Docker Compose](Courses/docker-fundamentals/10-docker-compose.md)
+- [Docker Security](Courses/docker-fundamentals/12-docker-security.md)
 - [Docker Volumes and Networks](Courses/docker-fundamentals/11-docker-volumes-and-networks.md)
 - [Installing Docker](Courses/docker-fundamentals/02-installing-docker.md)
 - [Managing Containers](Courses/docker-fundamentals/05-managing-containers.md)
