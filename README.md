@@ -27,6 +27,7 @@ Welcome to the knowledge base.
 - [Managing Containers](Courses/docker-fundamentals/05-managing-containers.md)
 - [What is Docker?](Courses/docker-fundamentals/01-what-is-docker.md)
 - [What is a Dockerfile?](Courses/docker-fundamentals/07-what-is-a-dockerfile.md)
+- [Writing a Dockerfile](Courses/docker-fundamentals/08-writing-a-dockerfile.md)
 
 ### Courses/it-asset-management-fundamentals
 
