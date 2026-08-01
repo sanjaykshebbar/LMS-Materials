@@ -20,6 +20,7 @@ Welcome to the knowledge base.
 
 ### Courses/docker-fundamentals
 
+- [Installing Docker](Courses/docker-fundamentals/02-installing-docker.md)
 - [What is Docker?](Courses/docker-fundamentals/01-what-is-docker.md)
 
 ### Courses/it-asset-management-fundamentals
