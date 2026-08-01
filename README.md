@@ -18,6 +18,10 @@ Welcome to the knowledge base.
 - [Machine Learning Basics](Courses/ai-for-beginners/02-machine-learning-basics.md)
 - [What is AI?](Courses/ai-for-beginners/01-what-is-ai.md)
 
+### Courses/docker-fundamentals
+
+- [What is Docker?](Courses/docker-fundamentals/01-what-is-docker.md)
+
 ### Courses/it-asset-management-fundamentals
 
 - [Asset Categorization](Courses/it-asset-management-fundamentals/08-asset-categorization.md)
