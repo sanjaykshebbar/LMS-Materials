@@ -20,6 +20,7 @@ Welcome to the knowledge base.
 
 ### Courses/docker-fundamentals
 
+- [Building Images](Courses/docker-fundamentals/09-building-images.md)
 - [Container Networking](Courses/docker-fundamentals/06-container-networking.md)
 - [Creating Containers](Courses/docker-fundamentals/04-creating-containers.md)
 - [Docker Basics](Courses/docker-fundamentals/03-docker-basics.md)
